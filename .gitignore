@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.temp
+*.bak
+*.lock
+*.lock.json
+Thumbs.db
+.DS_Store
+test-output/
